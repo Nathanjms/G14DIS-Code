@@ -1,5 +1,9 @@
 # G14DIS-Code
-The code created for my dissertation titled 'Chemokine Chemokine Gradient and Dendritic Cell Migration in Lymphatic Interstitium'.
+The code created for my dissertation titled 'Chemokine Chemokine Gradient and Dendritic Cell Migration in Lymphatic Interstitium'. 
+
+The file 'CodeHeirarchy.png' is an image showing which functions call each other, as well as a general order of this process. 
+
+The file 'Video_5PiOver12.avi' is an animation of the code being ran using 'DriverVideoOutput.m'.
 
 Code Descriptions:
 
